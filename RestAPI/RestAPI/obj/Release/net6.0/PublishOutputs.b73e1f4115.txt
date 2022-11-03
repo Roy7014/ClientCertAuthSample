@@ -1,0 +1,16 @@
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\RestAPI.exe
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\RestAPI.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\RestAPI.deps.json
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\RestAPI.runtimeconfig.json
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\RestAPI.pdb
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sohamroy\source\repos\RestAPI\RestAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
